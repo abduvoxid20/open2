@@ -1,0 +1,8 @@
+@font-face{
+    src:url(../font/NotoSans-Bold.ttf);
+    font-family: 'B700';
+}
+@font-face{
+    src: url(../font/NotoSans-Regular.ttf);
+    font-family: 'R400';
+}
